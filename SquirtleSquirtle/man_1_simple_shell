@@ -1,0 +1,35 @@
+.TH SQUIRTLE 1 "April 09 2019" "1.0" "Simple Shell Man Page"
+.SH NAME
+.B Squirtle
+- a UNIX command language interpreter (shell)
+.SH SYNOPSIS
+.B Squirtle
+.SH DESCRIPTION
+This simple shell is a version made to abide by Holberton's standards. Its functionality is to read the commands from the standard input and execute them.
+
+.SS Path Search
+
+
+.SH MODES
+.B 
+
+.SS
+EXAMPLE:
+
+.B 
+
+.SS
+EXAMPLE:
+
+
+.SH BUILT-IN COMMANDS
+.B 
+
+.B
+
+.SH SEE ALSO
+.I sh(1), bash(1)
+.SH BUGS
+Currently no bugs known.
+.SH AUTHORS
+Diego Tardio and Alisha Smith
