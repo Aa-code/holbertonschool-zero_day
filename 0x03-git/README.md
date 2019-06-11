@@ -1,6 +1,6 @@
-<h1> 0x03. Git </h1> 
+<h1> 0x03. Git </h1>
 <h2> Collaboration: be up to date </h2>
-                                                                                                                   
+
 <h3> Learning Objectives </h3>                                                                                     
                                                                                                                    
 <p> At the end of this project, you are expected to be able to explain to anyone, without the help of Google:      
