@@ -1,4 +1,5 @@
-<h1> 0x03. Git </h1>                                                                                               
+<h1> 0x03. Git </h1> 
+<h2> Collaboration: be up to date </h2>
                                                                                                                    
 <h3> Learning Objectives </h3>                                                                                     
                                                                                                                    
